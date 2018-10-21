@@ -1,4 +1,4 @@
-package com.packt.cardatabase;
+package com.rajeev.spaspringbootreactjs;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
@@ -6,10 +6,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.packt.cardatabase.domain.Car;
-import com.packt.cardatabase.domain.CarRepository;
-import com.packt.cardatabase.domain.Owner;
-import com.packt.cardatabase.domain.OwnerRepository;
+import com.rajeev.spaspringbootreactjs.domain.Car;
+import com.rajeev.spaspringbootreactjs.domain.CarRepository;
+import com.rajeev.spaspringbootreactjs.domain.Owner;
+import com.rajeev.spaspringbootreactjs.domain.OwnerRepository;
 
 @SpringBootApplication
 public class CardatabaseApplication {

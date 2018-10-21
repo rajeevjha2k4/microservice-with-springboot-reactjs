@@ -1,4 +1,4 @@
-package com.packt.cardatabase.domain;
+package com.rajeev.spaspringbootreactjs.domain;
 
 import java.util.List;
 

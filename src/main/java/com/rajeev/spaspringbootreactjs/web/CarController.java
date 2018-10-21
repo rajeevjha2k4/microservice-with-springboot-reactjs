@@ -1,11 +1,11 @@
-package com.packt.cardatabase.web;
+package com.rajeev.spaspringbootreactjs.web;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.packt.cardatabase.domain.Car;
-import com.packt.cardatabase.domain.CarRepository;
+import com.rajeev.spaspringbootreactjs.domain.Car;
+import com.rajeev.spaspringbootreactjs.domain.CarRepository;
 
 @RestController
 public class CarController {

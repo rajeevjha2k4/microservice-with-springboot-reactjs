@@ -1,4 +1,4 @@
-package com.packt.cardatabase.domain;
+package com.rajeev.spaspringbootreactjs.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
